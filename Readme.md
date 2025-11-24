@@ -1,4 +1,4 @@
-### Rule-Based Academic Enrollment System ###
+# Rule-Based Academic Enrollment System 
 
 Project Overview
 
@@ -28,14 +28,14 @@ Data Storage: In-Memory (using Java HashMap and HashSet)
 
 Version Control: Git
 
-##Steps to Install & Run the Project
+## Steps to Install & Run the Project
 
 Prerequisites: Make sure the Java Development Kit (JDK) is installed and configured in your system environment.
 
 Clone Repository:
 
-git clone [YOUR_REPOSITORY_URL]
-cd [repository-name]
+git clone https://github.com/AustinJoshva/University-Enrollment-System..git
+cd University-enrollment-system
 
 
 Compile Source Files: Taking the standard package structure (dao, model, service, app) into consideration, compile all Java files.
