@@ -35,6 +35,7 @@ Prerequisites: Make sure the Java Development Kit (JDK) is installed and configu
 Clone Repository:
 
 git clone https://github.com/AustinJoshva/University-Enrollment-System..git
+
 cd University-enrollment-system
 
 
